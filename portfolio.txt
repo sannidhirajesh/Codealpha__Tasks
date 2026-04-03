@@ -1,0 +1,5 @@
+Your Portfolio:
+AAPL : 2 shares
+TSLA : 1 shares
+
+Total Investment: 610
